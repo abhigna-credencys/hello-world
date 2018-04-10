@@ -1,8 +1,4 @@
 # hello-world
 Playing with github
 
-Click the README.md file.
-Click the  pencil icon in the upper right corner of the file view to edit.
-In the editor, write a bit about yourself.
-Write a commit message that describes your changes.
-Click Commit changes button.
+Hi i am making changes in the feature branch. I want to merge into the development branch. what do you think after generating a pull request will it be merging in the development branch or the master branch?
