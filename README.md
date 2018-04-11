@@ -1,4 +1,4 @@
 # hello-world
 Playing with github
 
-This is a feature 2 branch.
+This is the development branch which is fetched from master.
